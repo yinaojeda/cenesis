@@ -1,4 +1,4 @@
-# 🎓 Educational Management Platform - User Manuals 📚
+# 🎓 Educational Management Platform - User Manuals 
 
 Welcome to the documentation repository for the Educational Management Platform developed by **Yina Ojeda**.
 
